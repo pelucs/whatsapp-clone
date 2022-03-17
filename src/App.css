@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Roboto, sans-serif;
+}
+
+/* PALETA DE CORES */
+:root{
+  --primaria: #25D366;
+  --secundaria: #1DA851;
+  --negativa: #F44336;
+}
+
+body::-webkit-scrollbar{
+  width: 5px;
+  background-color: #D2DBDC;
+}
+body::-webkit-scrollbar-thumb{
+  width: 5px;
+  border-radius: 5px;
+
+  background-color: #222;
+}

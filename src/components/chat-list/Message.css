@@ -1,0 +1,27 @@
+.message-line{
+  margin-bottom: 10px;
+  display: flex;
+}
+.message-box{
+  max-width: 90%;
+  padding: 3px;
+
+  display: flex;
+  flex-direction: column;
+
+  box-shadow: 0 1px 1px #ccc;
+  border-radius: 10px;
+  background-color: #fff;
+}
+.message-box p{
+  font-size: 14px;
+  margin: 5px 40px 5px 5px;
+}
+.message-box span{
+  height: 15px;
+  margin: -15px 5px 0 0;
+  text-align: right;
+
+  font-size: 11px;
+  color: #888;
+}
