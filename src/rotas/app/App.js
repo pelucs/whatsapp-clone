@@ -7,8 +7,6 @@ import NewChat from '../../components/chat-list/NewChat';
 import Home from '../home/Home';
 import Api from '../../Firebase';
 
-import avatar from '../../media/user.jpg';
-
 export default () => {
 
   const [chatList, setChatList] = useState([]);
