@@ -1,1 +1,1 @@
-<h1 style={color: "red"}>WhatsApp Clone</h1>
+<h1 style="color = 'red'">WhatsApp Clone</h1>
