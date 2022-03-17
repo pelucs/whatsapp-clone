@@ -3,12 +3,12 @@ import 'firebase/auth';
 import 'firebase/firestore';
 
 const firebaseConfig = firebase.initializeApp({
-  apiKey: "AIzaSyBYAIiYok_H0al8rgJDz7R_3GGVR3sX6dQ",
-  authDomain: "whatsapp-130.firebaseapp.com",
-  projectId: "whatsapp-130",
-  storageBucket: "whatsapp-130.appspot.com",
-  messagingSenderId: "531654389245",
-  appId: "1:531654389245:web:9916fcc5de87daf27a3d94"
+  apiKey: "SUA CHAVE",
+  authDomain: "SUA CHAVE",
+  projectId: "SUA CHAVE",
+  storageBucket: "SUA CHAVE",
+  messagingSenderId: "SUA CHAVE",
+  appId: "SUA CHAVE"
 });
 
 const auth = firebase.auth();
